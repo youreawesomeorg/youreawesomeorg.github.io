@@ -67,15 +67,6 @@ a:hover
     color: #555;
 }
 
-.text-width-center
-{
-    margin-left: 15%;
-    margin-right: 15%;
-    width: 70%;
-    align-items: center;
-    text-align: center;
-}
-
 .align-left
 {
     margin-left: 10%;
@@ -85,6 +76,51 @@ a:hover
 
 @media screen and (orientation:landscape)
 {
+    h1
+    {
+        font-size: 5.5em;
+        line-height: 1.1em;
+    }
+
+    h2
+    {
+        font-size: 3.5em;
+    }
+
+    h3
+    {
+        font-size: 2.5em;
+        line-height: 1.3em;
+    }
+
+    h4
+    {
+        font-size: 2em;
+    }
+
+    h5
+    {
+        font-size: 1.5em;
+    }
+
+    h6
+    {
+        font-size: 1.2em;
+    }
+
+    p
+    {
+        font-size: 1em;
+    }
+
+    .text-width-center
+    {
+        margin-left: 15%;
+        margin-right: 15%;
+        width: 70%;
+        align-items: center;
+        text-align: center;
+    }
     .big-awesome-div
     {
         height: 70vh;
@@ -129,6 +165,43 @@ a:hover
 
 @media screen and (orientation:portrait)
 {
+    h1
+    {
+        font-size: 5.0em;
+        line-height: 1.1em;
+    }
+
+    h2
+    {
+        font-size: 3.2em;
+    }
+
+    h3
+    {
+        font-size: 2.3em;
+        line-height: 1.3em;
+    }
+
+    h4
+    {
+        font-size: 1.8em;
+    }
+
+    h5
+    {
+        font-size: 1.3em;
+    }
+
+    h6
+    {
+        font-size: 1.1em;
+    }
+
+    p
+    {
+        font-size: 0.9em;
+    }
+
     .big-awesome-div
     {
         height: 50vh;
@@ -156,6 +229,15 @@ a:hover
         display: inline-block;
         line-height: normal;
         vertical-align: middle;
+    }
+
+    .text-width-center
+    {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        align-items: center;
+        text-align: center;
     }
 
     .left-bottom-panel
