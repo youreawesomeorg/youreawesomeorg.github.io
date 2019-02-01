@@ -1,0 +1,16 @@
+html, body {
+    text-align: center;
+    font-family: 'Short Stack', 'Segoe UI', 'Helvetica';
+    color: #000000;
+    background-color: #FFFF00;
+    font-size: 12vw;
+    height: 80%;
+}
+
+h6 {
+	font-size: 2vw;
+}
+
+.main {
+    transform: translate(0%, 40%);
+}

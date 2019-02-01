@@ -1,0 +1,75 @@
+﻿body
+{
+    background-color: #DD6;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
+h1, h2, h3, h4, h5, h6, p, img
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: inherit;
+    margin-left: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+h1
+{
+    font-size: 5.5em;
+    line-height: 1.1em;
+}
+
+h2
+{
+    font-size: 3.5em;
+}
+
+h3
+{
+    font-size: 2.5em;
+    line-height: 1.3em;
+}
+
+h4
+{
+    font-size: 2em;
+}
+
+h5
+{
+    font-size: 1.5em;
+}
+
+h6
+{
+    font-size: 1.2em;
+}
+
+p
+{
+    font-size: 1em;
+}
+
+.text-width
+{
+    width: 80%;
+}
+
+.align-left
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.img-mini
+{
+    max-width: 250px;
+}
