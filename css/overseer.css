@@ -73,7 +73,6 @@ a:hover
     margin-right: 10%;
 }
 
-
 @media screen and (orientation:landscape)
 {
     h1
@@ -255,4 +254,16 @@ a:hover
 {
     max-width: 800px;
     margin: 0 auto;
+}
+
+.join-in-main-body
+{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img-mini
+{
+    max-width: 80%;
+    min-width: 250px;
 }
